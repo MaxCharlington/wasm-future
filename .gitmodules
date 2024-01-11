@@ -1,0 +1,6 @@
+[submodule "deps/LEB128"]
+	path = deps/LEB128
+	url = https://github.com/piranna/LEB128.git
+[submodule "deps/fpu"]
+	path = deps/fpu
+	url = https://github.com/piranna/fpu.git
